@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<a href="https://app.daily.dev/darmhoo"><img src="https://api.daily.dev/devcards/v2/2TjFX0tEzERk6smSEFZ1o.png?type=default&r=oa0" width="356" alt="Omodamola Oladeji's Dev Card"/></a>
+
 <!--
 **darmhoo/darmhoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on building a learning enhancement site
+- 🌱 I’m currently learning advanced building patterns
+- ⚡ Fun fact: I play chess! Add me on chess.com (darmhoo)
